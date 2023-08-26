@@ -1,4 +1,4 @@
-- Hi, I’m @fredolav, a newbie programmer from Norway.
+- Hi, I’m @fredolav, a programmer from Norway.
 
 - I’m currently learning to create web applications with Flask/Python.
 
