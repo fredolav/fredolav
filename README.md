@@ -1,10 +1,8 @@
-- Hi, I’m @fredolav, a programmer from Norway.
+Hi, I'm @fredolav, a Norwegian programmer with expertise in PHP, Laravel, and Symfony.
 
-- I’m currently learning to create web applications with Flask/Python.
+My latest project on GitHub is the Norsk IT-katalog, which you can explore at norskitkatalog.no.
 
-- I’m looking to collaborate on Flask-based projects.
-
-- You can find my contact info at my website fredolav.no.
+For more information about me, visit my website at vatnedigital.no.
 
 <!---
 fredolav/fredolav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
